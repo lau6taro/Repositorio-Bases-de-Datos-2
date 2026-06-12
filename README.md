@@ -1,4 +1,4 @@
-<h1>📝 Repositorio Bases de Datos 2</h1>
+<h1>📝 Repositorio Bases de Datos 2-TUP-UTN</h1>
 <br>
 
 <h3>📋 Descripción </h3>
