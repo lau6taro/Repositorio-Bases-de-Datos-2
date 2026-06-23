@@ -1,0 +1,24 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "<h1>📝 Repositorio Bases de Datos 2-TUP-UTN</h1>\r <br>",
+  "homepage": "https://github.com/lau6taro/Repositorio-Bases-de-Datos-2#readme",
+  "bugs": {
+    "url": "https://github.com/lau6taro/Repositorio-Bases-de-Datos-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lau6taro/Repositorio-Bases-de-Datos-2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", 
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
